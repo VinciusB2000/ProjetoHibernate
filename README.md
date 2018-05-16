@@ -8,7 +8,7 @@ Possibilita desenvolver classes persistentes usando Java convencional:
 **Herança**<br>
 **Polimorfismo e coleções Java**
 
-Implementa mecanismos de mapeamento:<br>
+Implementa mecanismos de mapeamento:<br><br>
 Classes Java <-> Tabelas em SGBDs relacionais<br>
 Tipos Java <->Tipos SQL<br>
 Implementa mecanimos convenientes para consulta e recuperação de dados<br>
