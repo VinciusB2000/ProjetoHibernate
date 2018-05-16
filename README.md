@@ -3,12 +3,10 @@
 Hibernate é um Framewok para mapeamento Objeto/Relacional em Java
 Possibilita desenvolver classes persistentes usando Java convencional:
 
-**Associação
-Composição
-Herança
-Polimorfismo
-e coleções Java
-**
+**Associação**
+**Composição**
+**Herança**
+**Polimorfismo e coleções Java**
 
 Implementa mecanismos de mapeamento:
 Classes Java <-> Tabelas em SGBDs relacionais
