@@ -8,10 +8,10 @@ Possibilita desenvolver classes persistentes usando Java convencional:
 **Herança**<br>
 **Polimorfismo e coleções Java**
 
-Implementa mecanismos de mapeamento:
-Classes Java <-> Tabelas em SGBDs relacionais
-Tipos Java <->Tipos SQL
-Implementa mecanimos convenientes para consulta e recuperação de dados
+Implementa mecanismos de mapeamento:<br>
+Classes Java <-> Tabelas em SGBDs relacionais<br>
+Tipos Java <->Tipos SQL<br>
+Implementa mecanimos convenientes para consulta e recuperação de dados<br>
 Hibernate objetiva reduzir em cerca de 95% do tempo de desenvolvimento de tarefas relacionadas à persistência!
 
 #### JAVA | SQL | MYVIN | GITHUB
