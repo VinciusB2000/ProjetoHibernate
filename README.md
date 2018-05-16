@@ -1,3 +1,3 @@
 # exemplo-conexao-java-mysql-jpa
 
-<img src="https://github.com/jefersonrl/exemplo-conexao-java-mysql-jpa/tree/master/img/1.png">
+<img width="10%" src="imgs/1.png" />
