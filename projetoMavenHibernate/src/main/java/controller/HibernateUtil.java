@@ -12,8 +12,7 @@ public class HibernateUtil {
 		
 		Configuration configuration = new Configuration();
 		
-		// pacote onde ficam as classes que representam as entidades.
-		configuration.addAnnotatedClass(Alunos.class);
+	configuration.addAnnotatedClass(Alunos.class);
 		
 		configuration.configure();
 		

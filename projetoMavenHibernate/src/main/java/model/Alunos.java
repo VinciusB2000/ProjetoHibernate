@@ -17,6 +17,10 @@ public class Alunos {
 	
 	@Column
 	private String endereco;
+	
+	@Column
+	private String telefone;
+
 
 	public int getId_aluno() {
 		return id_aluno;
@@ -40,6 +44,13 @@ public class Alunos {
 
 	public void setEndereco(String endereco) {
 		this.endereco = endereco;
+	}
+	public String getTelefone() {
+		return telefone;
+	}
+
+	public void setTelefone(String telefone) {
+		this.telefone = telefone;
 	}
 	
 	
